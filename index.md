@@ -9,7 +9,7 @@ tl;dr: [click here for srs bznz](https://yoshirulz.github.io); tell the world I'
 
 Because some of my projects are... NSFW, to say the least, I use this account ([@SuscipiamSingularitatem](https://github.com/SuscipiamSingularitatem)) for them, keeping my *actual* account ([@YoshiRulz](https://github.com/YoshiRulz), [github.io](https://yoshirulz.github.io)) future-employer-friendly. Unless, of course, my future employer happens to be Dragonfru.it (plz hire me, o yiffy overlords).
 
-Back to the point, I'd really appreciate it if the two accounts were kept seperate. Not that I'm trying to keep my furry-ness a secret from anybody (though I am most definitely closeted), I just don't want the "less acceptable" parts of being furry associated with myself professionally. I'm sure you, having found yourself on this page, will understand.
+Back to the point, I'd really appreciate it if the two accounts were kept seperate. Not that I'm trying to keep my furry-ness a secret from anybody (though I am most definitely closeted), I just don't want the "less acceptable" parts of being furry associated with myself professionally. I'm sure that you, having found yourself on this page, will understand.
 
 On my proper github.io ([clicky clicky](https://yoshirulz.github.io)), there's a list of my non-sexual projects. All the projects I work on under this account are in the GH organisation [@CyberYiff](https://github.com/CyberYiff), which I formed with a couple of like-minded furs. I won't list them here, you can scroll through the list easily enough.
 
