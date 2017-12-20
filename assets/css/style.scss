@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper, #header > nav, section {
+	max-width: 750px;
+}
